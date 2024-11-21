@@ -14,3 +14,14 @@ This project emphasizes clean design, ease of use, and a responsive interface fo
 - Redux or Context API for state management
 - REST for API integration
 - Jest for testing
+
+## UI/UX Design Planning.
+The app includes the following key features:
+
+- ** Property Listing View: ** A visually appealing page displaying a variety of property listings, complete with essential details and images to help users browse available options.
+
+- ** Listing Detailed View: ** A dedicated page for each property, offering comprehensive information, additional images, and other essential details to help users make informed decisions.
+
+- ** Simple Checkout View: ** A user-friendly booking process that allows users to quickly reserve their chosen properties with ease.
+
+- ** Search Functionality: ** A robust search feature enabling users to filter properties based on criteria such as location, price, and availability, making it easier to find the perfect accommodation.
