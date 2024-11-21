@@ -153,3 +153,14 @@ The Scrum Master facilitates Agile processes and helps the team follow Scrum pra
 - Foster a collaborative and productive team environment.  
 - Coach the team on Agile principles and practices.  
 - Ensure continuous improvement within the team.  
+
+## UI Component Patterns
+
+- **Navbar**:  
+  A top navigation bar that allows users to access different sections of the application easily.  
+
+- **Property Card**:  
+  A compact component that displays property details like images, price, and location in a visually appealing layout.  
+
+- **Footer**:  
+  A bottom section of the page containing essential links, copyright information, and contact details.  
