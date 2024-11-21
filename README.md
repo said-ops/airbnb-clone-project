@@ -1,3 +1,3 @@
 <div align="center">
-# airbnb-clone-project
+<h1>airbnb-clone-project</h1>
 </div>
